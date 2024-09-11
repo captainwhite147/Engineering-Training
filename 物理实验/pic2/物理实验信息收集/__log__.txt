@@ -1,0 +1,6 @@
+Start downloading 4 files.
+Success 3 糖蛋白_2024-09-10 19.59.25_IMG_20240910_195653.jpg
+Success 0 辞忧_2024-09-11 22.18.49_IMG_20240911_221821.jpg
+Success 2 辞忧_2024-09-11 22.22.03_IMG_20240911_222036.jpg
+Success 1 A FW in CSE_2024-09-11 22.18.49_IMG_20240911_221839.jpg
+Complete. Success: 4, Failure: 0
